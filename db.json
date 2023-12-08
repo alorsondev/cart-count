@@ -1,3 +1,5 @@
 {
-  "cart-count": "2"
+  "cart": {
+    "count": 2
+  }
 }

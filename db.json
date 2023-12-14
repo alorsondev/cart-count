@@ -21,7 +21,11 @@
     { "id": 19, "name": "Travel Backpack", "price": "$70" },
     { "id": 20, "name": "Gourmet Chocolate Box", "price": "$60" }
   ],
-  "cart": {
+  "cart-count": {
     "count": 2
-  }
+  },
+  "cart-products": [
+    { "id": 1, "name": "Ultra HD 4K Smart TV", "price": "$799" },
+    { "id": 2, "name": "Wireless Noise Cancelling Headphones", "price": "$299" }
+  ]
 }
